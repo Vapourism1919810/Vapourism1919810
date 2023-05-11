@@ -35,7 +35,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
 
 <!-- BLOG-POST-LIST:END -->
 
