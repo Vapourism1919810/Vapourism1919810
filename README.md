@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently a master student in The University of Tokyo
 
-- 🌱 I’m currently Working Embedded software application/driving development.
+- 🌱 I’m currently a Working software application/driving development.
 
 - 📫 How to reach me **jiangyg3278993@gmail.com**
 
