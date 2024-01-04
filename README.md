@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently a Working software application/driving development.
 
-- 📫 How to reach me **jiangyg3278993@gmail.com**
+- 📫 How to reach me **jiangyangguang.szu@gmail.com**
 
-- 📄 Know about my experiences, please contact me through my email.
+- 📄 Please contact me through my email if you want to know more about me or have any question about my projects.
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -42,4 +42,4 @@
 
 Credit: [Vapourism](https://github.com/Vapourism233/)
 
-Last Edited on: 2023/05/11
+Last Edited on: 2024/01/04
