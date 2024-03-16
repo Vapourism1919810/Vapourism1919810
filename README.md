@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently a master student in The University of Tokyo
 
-- 🌱 I’m currently a Working software application/driving development.
-
 - 📫 How to reach me **jiangyangguang.szu@gmail.com**
 
 - 📄 Please contact me through my email if you want to know more about me or have any question about my projects.
